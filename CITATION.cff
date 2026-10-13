@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Maximal sublattices of finite semidistributive lattices: the complement need not be an interval"
+type: software
+authors:
+  - family-names: Bhattacharjee
+    given-names: Deep
+    orcid: "https://orcid.org/0000-0003-0466-750X"
+    affiliation: "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India"
+    email: d.bhattacharjee@erl-forschung.de
+version: 1.0.0
+date-released: 2026-10-13
+license: MIT
+repository-code: "https://github.com/creelie/Conjecture-001"
+keywords:
+  - maximal sublattice
+  - semidistributive lattice
+  - bounded lattice
+  - counterexample
+  - Lean 4
+abstract: >-
+  Adams, Freese, Nation and Schmid proved that the complement of a maximal sublattice of a finite
+  bounded lattice is an interval, and asked whether the same holds for finite semidistributive
+  lattices; Adaricheva, Mata, Silberger and Zamojska-Dzienio conjectured that it does. It does not.
+  In a 26-element semidistributive sublattice of the square of a 14-element semidistributive lattice,
+  the diagonal is a maximal sublattice whose complement has two minimal elements. The proof is
+  formalised in Lean 4 with Mathlib.
+references:
+  - type: article
+    title: "Maximal sublattices and Frattini sublattices of bounded lattices"
+    authors:
+      - family-names: Adams
+        given-names: M. E.
+      - family-names: Freese
+        given-names: Ralph
+      - family-names: Nation
+        given-names: J. B.
+      - family-names: Schmid
+        given-names: Jürg
+    year: 1997
+    journal: "Journal of the Australian Mathematical Society, Series A"
+    volume: 63
+    start: 110
+    end: 127
+    doi: "10.1017/S1446788700000355"
+  - type: article
+    title: "Conjecture on maximal sublattices of finite semidistributive lattices and beyond"
+    authors:
+      - family-names: Adaricheva
+        given-names: Kira
+      - family-names: Mata
+        given-names: Adam
+      - family-names: Silberger
+        given-names: Sylvia
+      - family-names: Zamojska-Dzienio
+        given-names: Anna
+    year: 2026
+    journal: "Discrete Mathematics & Theoretical Computer Science"
+    doi: "10.46298/dmtcs.16374"
