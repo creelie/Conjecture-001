@@ -9,7 +9,15 @@ authors:
     affiliation: "Formerly, Electro-Gravitational Space Propulsion Laboratory (EGSPL), Bhubaneswar, Odisha 751030, India"
     email: d.bhattacharjee@erl-forschung.de
 version: 1.0.0
-date-released: 2026-10-13
+doi: "10.5281/zenodo.23353448"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23353448"
+    description: "Version 1.0.0"
+  - type: doi
+    value: "10.5281/zenodo.23353447"
+    description: "All versions"
+date-released: 2026-10-14
 license: MIT
 repository-code: "https://github.com/creelie/Conjecture-001"
 keywords:

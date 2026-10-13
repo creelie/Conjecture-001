@@ -1,5 +1,9 @@
 # Maximal sublattices of finite semidistributive lattices: the complement need not be an interval
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23353448.svg)](https://doi.org/10.5281/zenodo.23353448)
+
+Release v1.0.0: [doi:10.5281/zenodo.23353448](https://doi.org/10.5281/zenodo.23353448) (all versions: [doi:10.5281/zenodo.23353447](https://doi.org/10.5281/zenodo.23353447)).
+
 Adams, Freese, Nation and Schmid, *Maximal sublattices and Frattini sublattices of bounded lattices*,
 J. Austral. Math. Soc. Ser. A 63 (1997), 110–127,
 [doi:10.1017/S1446788700000355](https://doi.org/10.1017/S1446788700000355), proved that in a finite
