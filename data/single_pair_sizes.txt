@@ -1,0 +1,1 @@
+single pairs: 46 distinct sublattices; sizes: 26x2 28x2 33x4 38x4 40x2 43x2 47x4 50x4 52x2 56x2 57x4 59x2 71x4 76x2 79x4 107x2
